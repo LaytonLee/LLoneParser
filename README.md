@@ -1,2 +1,2 @@
 # LLoneParser
-LL1此法分析程序
+LL1语法分析程序
